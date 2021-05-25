@@ -1,4 +1,4 @@
-import { GlDropdown, GlIcon } from '@gitlab/ui';
+import { GlDropdown } from '@gitlab/ui';
 import { mount } from '@vue/test-utils';
 import stubChildren from 'helpers/stub_children';
 import component from '~/packages/details/components/package_files.vue';
