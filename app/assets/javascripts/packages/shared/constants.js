@@ -16,6 +16,9 @@ export const TrackingActions = {
   REQUEST_DELETE_PACKAGE: 'request_delete_package',
   CANCEL_DELETE_PACKAGE: 'cancel_delete_package',
   PULL_PACKAGE: 'pull_package',
+  DELETE_PACKAGE_FILE: 'delete_package_file',
+  REQUEST_DELETE_PACKAGE_FILE: 'request_delete_package_file',
+  CANCEL_DELETE_PACKAGE_FILE: 'cancel_delete_package_file',
 };
 
 export const TrackingCategories = {
